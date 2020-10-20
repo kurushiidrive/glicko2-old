@@ -1,0 +1,19 @@
+
+Glicko-2 Rating Calculator
+
+Player Rating Before:   1500
+Player Rating Deviation Before: 350
+Opponents' Ratings:     [1391, 1391, 1665, 1665, 1665, 1665, 1237, 1237, 1674, 1674]
+Opponents' Rating Deviations:   [132, 132, 121, 121, 121, 121, 142, 142, 133, 133]
+Scores against Opponents (1 win, 0 loss):       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Player Volatility Before:       0.060000
+System Constant:        0.6
+Number of Matches:      10
+
+
+Player Rating Calibrated:       1125
+Player Rating Deviation Calibrated:     124
+Player Volatility Calibrated:   0.060001
+
+Nu:     0.5799058860
+Delta:  -2.4660915806
